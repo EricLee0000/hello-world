@@ -1,4 +1,2 @@
 # hello-world
-ideas, resources, sharing, discussions, etc.
-
-Testing changes.
+Contains introduction/tutorial information for all types of applications
